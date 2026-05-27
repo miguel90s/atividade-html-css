@@ -1,0 +1,28 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.banner {
+    position: relative;
+    width: 100%;
+}
+
+.imagem-fundo {
+    width: 100%;
+    display: block;
+}
+
+.banner-texto {
+    font-size: 31px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    color: white;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+    margin: 0;
+    text-align: center;
+}
